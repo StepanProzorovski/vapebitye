@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width,00 initial-scale=1.0">
+    <title>VAPEБЫТИЕ</title>
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Vollkorn:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="CSS/main.css">
+</head>
+<body class='page dark-theme'>
+    <header class='header'>
+        <div class='container'>
+            <div class="nav">
+                <a href="#">
+                <img src="img\Без имени.png" alt="VAPEБЫТИЕlog">
+                </a>
+                <a href="mailto:stepannizametdinov@gmail.com" class="mail">stepannizametdinov@gmail.com</a>
+            </div>
+        </div>
+    </header>
+    
+    <div class="header-content">
+        <div class="nameshop">
+            <p class="place">
+                ул. Греческая №88
+            </p>
+            <h1 class="nameshop-title">
+                VAPEБЫТИЕ
+            </h1>
+            <p class="description">Мечта любых лёгких</p>
+            <a href="https://vk.com/@vkxyu-pravila-soobschestva" class="btn">Узнать больше</a>
+        </div>
+
+        <div class="intro">
+            <h4 class="intro-title">
+                ROZO
+            </h4>
+            <p>
+                Бренд, в ДНК которого заложена технологичность
+            </p>
+        </div>
+
+        <div class="imgan">
+        <img src="img\33532990_1752823574754483_990570147385180160_n.jpg" width="600" height="400" alt="Cotton" class="cotton">
+        </div>
+        
+    </div>
+
+
+</body>
+</html>

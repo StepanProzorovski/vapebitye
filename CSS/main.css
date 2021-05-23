@@ -1,0 +1,125 @@
+.light-theme {
+    padding: 72px;
+    margin: 0px;
+    color: #000;
+    font-size: 15px;
+    font-family: 'Vollkorn', serif;
+    font-weight: 400;
+    letter-spacing: 0.03em;
+    line-height: 1.55em;
+}
+
+*{
+    box-sizing: border-box;
+}
+p{
+    letter-spacing: 0.03em;
+    line-height: 1.55em;
+    margin: 0;
+}
+
+h1 h2 h3 h4 h5 h6{
+    font-weight: 400;
+    padding: 0;
+    margin: 0;
+    line-height: 1.4em;
+}
+
+.container{
+    width: 1110px;
+    margin: 0 auto;
+    /* border: 1px solid red; */
+}
+
+.header{
+    padding-top: 72px; 
+}
+
+
+.nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 72px;
+}
+
+.header-content{
+
+}
+
+a{
+    color: #000;
+    text-decoration: none;
+}
+
+.nameshop{
+    margin-bottom: 98px;
+    margin-top: 52px;
+}
+
+.place{
+    font-size: 18px; 
+    margin-bottom: 21px;
+}
+
+.nameshop-title{
+    font-size: 45px;
+    text-transform: uppercase;
+    letter-spacing: 0.07em;
+}
+
+.description{
+    font-size: 18px;
+    margin-bottom: 21px;
+    margin-top: 21px;
+}
+
+.btn{
+    color:#fff;
+    background: #6a85e3;
+    font-size: 18px;
+    padding: 18px 30px;
+    font-weight: 700;
+    display: block;
+    /* display: block;  делаем из кнопки блочный элемент */
+    width: 197px;
+    /* ограничеваем кнопку в размере */
+    text-align: center;
+    /* на случай если в браузере текс будет больше или меньше */
+}
+
+.btn:hover{
+    background: #545fcf;
+}
+
+.btn:active{
+    background: #4e58c2;
+}
+
+.intro{
+    background: #EAEAEA;
+    padding: 30px;
+    width: 441px;
+}
+
+.intro-title{
+    font-weight: 700;
+    margin-bottom: 17px;
+}
+
+.imgan{
+    display: grid;
+    grid-column-start: 200px;
+}
+
+.dark-theme{
+    padding: 72px;
+    margin: 0px;
+    color: #f2f2f2;
+    background-color: #17161a;
+    font-size: 15px;
+    font-family: 'Vollkorn', serif;
+    font-weight: 400;
+    letter-spacing: 0.03em;
+    line-height: 1.55em;
+}
